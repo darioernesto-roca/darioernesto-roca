@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/dario-ernesto-roca/recent-activity/posts/](https://www.linkedin.com/in/dario-ernesto-roca/recent-activity/posts/)
 
-- 💬 Ask me about **JavaScript vanilla, Express.js and MongoDB**
+- 💬 Ask me about **vanilla JavaScript, Express.js and MongoDB**
 
 - 📫 How to reach me **darioernesto.roca@gmail.com**
 

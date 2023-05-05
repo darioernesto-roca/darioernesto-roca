@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **OOP and API REST projects**
 
-- 🤝 I’m looking for help with **learning the Python language**
+- 🤝 I’m looking for help with **learning React.js and Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/darioernesto-roca](https://github.com/darioernesto-roca)
 

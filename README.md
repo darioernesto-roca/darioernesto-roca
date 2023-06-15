@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dario Ernesto Roca</h1>
+<h1 align="center">Hi, I'm Dario Ernesto Roca.</h1>
 <h3 align="center">A Full Stack Web developer from Colombia, passionate by developing Web applications, using both front-end and back-end technologies.</h3>
 
 - 🔭 I’m currently working **on building an e-commerce platform for a toy store**

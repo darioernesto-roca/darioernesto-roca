@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working **on building an e-commerce platform for a toy store**
 
-- 🌱 I’m currently learning **React.js, Python and SQL**
+- 🌱 I’m currently learning **Java**
 
 - 👯 I’m looking to collaborate on **OOP and API REST projects**
 

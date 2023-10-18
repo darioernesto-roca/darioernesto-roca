@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dario Ernesto Roca</h1>
-<h2 align="center">A Full Stack Web developer from Colombia, passionate by developing Web applications, using both front-end and back-end technologies.</h2>
+<h2 align="center">A Full Stack Web developer from Colombia, passionate by developing Websites and Web Applications, using both front-end and back-end technologies.</h2>
 
-- 🔭 I’m currently working **Web Development**
+- 🔭 I’m currently working on **Web Development** for a US marketing company
 
 - 🌱 I’m currently **learning React.js, Java and Python**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/dario-ernesto-roca/recent-activity/posts/](https://www.linkedin.com/in/dario-ernesto-roca/recent-activity/posts/)
 
-- 💬 Ask me about: **vanilla JavaScript, Express.js and MongoDB**
+- 💬 Ask me about: **CSS, vanilla JavaScript, Node.js, Express.js, Wordpress**
 
 - 📫 How to reach me **darioernesto.roca@gmail.com**
 

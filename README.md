@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 🤝 I’m looking for help with **learning React.js, Java and Python**
+- 🤝 I’m looking for help with **learning Java and Cloud Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/darioernesto-roca](https://github.com/darioernesto-roca)
 

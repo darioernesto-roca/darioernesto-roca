@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Web Development** for a US marketing company
 
-- 🌱 I’m currently **learning React.js, Java and Python**
+- 🌱 I’m currently **learning Java**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/dario-ernesto-roca/recent-activity/posts/](https://www.linkedin.com/in/dario-ernesto-roca/recent-activity/posts/)
 
-- 💬 Ask me about: **CSS, vanilla JavaScript, Node.js, Express.js, Wordpress**
+- 💬 Ask me about: **CSS, SASS, JavaScript, Node.js, Express.js, template engines, Wordpress, WP Builders, SEO, hostings**
 
 - 📫 How to reach me **darioernesto.roca@gmail.com**
 

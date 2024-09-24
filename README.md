@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dario Ernesto Roca</h1>
 <h2 align="center">A Full Stack Web developer from Colombia, passionate by developing Websites and Web Applications, using both front-end and back-end technologies.</h2>
 
-- 🔭 I’m currently working on **Web Development** for a US marketing company
+- 🔭 I’m currently working on **Web Development** for a **US Marketing Company**
 
 - 🌱 I’m currently **learning Python, PHP and Java**
 

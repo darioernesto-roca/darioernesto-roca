@@ -3,19 +3,19 @@
 
 - 🔭 I’m currently working on **Web Development** for a US marketing company
 
-- 🌱 I’m currently **learning Java**
+- 🌱 I’m currently **learning Python, PHP and Java**
 
-- 👯 I’m looking to collaborate on **Web Development Projects**
+- 👯 I’m looking to collaborate on **Web Development projects**
 
-- 🤝 I’m looking for help with **learning Java and Cloud Engineering**
+- 🤝 I’m looking for help with **Python, PHP and Java projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/darioernesto-roca](https://github.com/darioernesto-roca)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/dario-ernesto-roca/recent-activity/posts/](https://www.linkedin.com/in/dario-ernesto-roca/recent-activity/posts/)
 
-- 💬 Ask me about: **CSS, SASS, JavaScript, Node.js, Express.js, template engines, Wordpress, WP Builders, SEO, hostings**
+- 💬 Ask me about: **CSS, SASS, JavaScript, Node.js, Express.js, Template Engines, Wordpress, WP Builders, SEO, Hostings, Migrations, DNS, Website Accessibility**
 
-- 📫 How to reach me **darioernesto.roca@gmail.com**
+- 📫 You can reach me here: **darioernesto.roca@gmail.com**
 
 - 🏡 Visit [https://darioernestoroca.com/](https://darioernestoroca.com/) **to know more about me**
 

@@ -15,7 +15,7 @@
 
 - 📫 You can reach me here: **darioernesto.roca@gmail.com**
 
-- 🏡 Visit [https://darioernestoroca.com/](https://darioernestoroca.com/) **to know more about me**
+- 🏡 Visit **[https://darioernestoroca.com/](https://darioernestoroca.com/) to know more about me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,16 +24,90 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS3"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a title="Express.js" href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a title="Git" href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a title="HTML5" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a title="MongoDB" href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a title="SQL" href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="40" height="40"/> </a> <a title="MySQL" href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="40" height="40"/></a> <a title="PostgreSQL" href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="40" height="40"/>
-</a> <a title="Node.js" href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a title="React.js" href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a title="Sass" href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a title="WordPress" href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" alt="WordPress" width="40" height="40"/>
- </a> <a title="Elementor" href="https://elementor.com/" target="_blank" rel="noreferrer"> <img src="https://elementor.com/marketing/wp-content/uploads/2021/10/Elementor-Logo-Symbol-Red.png" alt="elementor" width="40" height="40"/> </a> </p>
+<p align="left">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" title="CSS3">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer" title="Node.js">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+</a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer" title="Express.js">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" title="Bash">
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+</a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML5">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</a>
+<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer" title="SQL">
+    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" title="PostgreSQL">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React.js">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
+</a>
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer" title="Sass">
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
+</a>
+<a href="https://wordpress.org/" target="_blank" rel="noreferrer" title="WordPress">
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+</a>
+<a href="https://elementor.com/" target="_blank" rel="noreferrer" title="Elementor">
+    <img src="https://img.shields.io/badge/Elementor-9146FF?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor"/>
+</a>
+</p>
+
 
 <h4> Other Tools and Technologies </h4>
 <span>
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" Title="Notion">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" Title="Slack">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" Title="Discord">
-  <img src="https://img.shields.io/badge/Monday.com-FFBD44?style=for-the-badge&logo=monday&logoColor=white" alt="Monday.com" Title="Monday.com">
-  <img src="https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white" alt="Asana" Title="Asana">
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" Title="Trello">
- <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" Title="Photoshop"/>
+
+<a href="https://www.notion.so/" target="_blank" rel="noreferrer" title="Notion">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="40" height="40"/>
+</a>
+<a href="https://slack.com/" target="_blank" rel="noreferrer" title="Slack">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Slack_Technologies_Logo.svg" alt="Slack" width="110"/>
+</a>
+<a href="https://discord.com/" target="_blank" rel="noreferrer" title="Discord">
+    <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="Discord" width="40" height="40"/>
+</a>
+<a href="https://monday.com/" target="_blank" rel="noreferrer" title="Monday.com">
+    <img src="https://monday.com/p/wp-content/uploads/2024/03/Black-logo.png" alt="Monday.com" width="180"/>
+</a>
+<a href="https://asana.com/" target="_blank" rel="noreferrer" title="Asana">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Asana_logo.svg" alt="Asana" width="100" height="40"/>
+</a>
+<a href="https://trello.com/" target="_blank" rel="noreferrer" title="Trello">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Trello-logo-blue.svg" alt="Trello" width="100" height="40"/>
+</a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer" title="Photoshop">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="40" height="40"/>
+</a>
+<a href="https://www.gimp.org/" target="_blank" rel="noreferrer" title="GIMP">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" alt="GIMP" width="40" height="40"/>
+</a>
+
+<h2>Github stats:</h2>
+
+<div>
+
+[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=darioernesto-roca&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/darioernesto-roca)
+
+[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=darioernesto-roca&theme=material-palenight)](https://github.com/darioernesto-roca)
+
+</div>

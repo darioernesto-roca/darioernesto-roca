@@ -74,7 +74,7 @@
 </p>
 
 
-<h4> Other Tools and Technologies </h4>
+<h3> Other Tools and Technologies </h3>
 <span>
 
 <a href="https://www.notion.so/" target="_blank" rel="noreferrer" title="Notion">

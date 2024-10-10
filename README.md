@@ -98,9 +98,16 @@
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer" title="Photoshop">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="40" height="40"/>
 </a>
+<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer" title="Adobe XD">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="Adobe XD" width="40" height="40"/>
+</a>
 <a href="https://www.gimp.org/" target="_blank" rel="noreferrer" title="GIMP">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" alt="GIMP" width="40" height="40"/>
 </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/>
+</a>
+
 
 <h2>Github stats:</h2>
 

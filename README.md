@@ -113,5 +113,5 @@
 
 <div>
 [![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=darioernesto-roca&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/darioernesto-roca)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=darioernesto-roca&theme=dark)](https://git.io/streak-stats)
+[[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=darioernesto-roca&theme=material-palenight)](https://github.com/darioernesto-roca)
 </div>

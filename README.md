@@ -115,7 +115,7 @@
   <a href="https://github.com/darioernesto-roca">
     <img src="https://github-readme-stats.vercel.app/api?username=darioernesto-roca&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Readme Stats">
   </a>
-<!--   <a href="https://git.io/streak-stats">
+  <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=darioernesto-roca&theme=tokyonight" alt="GitHub Streak Stats">
-  </a> -->
+  </a>
 </div>

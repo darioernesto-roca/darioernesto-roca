@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on **[https://www.linkedin.com/in/dario-ernesto-roca/recent-activity/posts/](https://www.linkedin.com/in/dario-ernesto-roca/recent-activity/posts/)**
 
-- 💬 Ask me about: **JavaScript, Node.js, Express.js, Template Engines, CSS, SASS, HTML, Wordpress, PHP, WP Page Builders (like Elementor, Gutenberg, Beaver and Divi), SEO, Hostings, Site Migrations, DNS Settings, Website Accessibility.**
+- 💬 Ask me about: **JavaScript, Node.js, Express.js, Template Engines, CSS, SASS, HTML, Wordpress, PHP, WP Page Builders (like Elementor, Gutenberg, Beaver and Divi), Search Engine Optimization (SEO), Hostings, Site Migrations, DNS Settings, Website Accessibility.**
 
 - 📫 You can reach me here: **darioernesto.roca@gmail.com**
 

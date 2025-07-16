@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dario Ernesto Roca Polo.</h1>
+<h1 align="center">Hi, I'm Dario Ernesto Roca Polo</h1>
 <h2 align="center">I'm a Full Stack Web Developer and SEO Consultant from Colombia, driven by a dedication to crafting dynamic websites and web applications, using front-end and back-end technologies.</h2>
 
 - 🔭 I’m currently working as **Senior Web Developer** for **<a href="https://middlewaymarketing.com/our-agency/" target="_blank">Middle Way Marketing</a>** and collaborate with **<a href="https://observatoirenature.org/observatorio/notre-equipe/#dario-ernesto-roca" target="_blank">OIDN - Observatoire International des Droits de la Nature.</a>**

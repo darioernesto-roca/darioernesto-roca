@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **Senior Web Developer** for **<a href="https://middlewaymarketing.com/our-agency/" target="_blank">Middle Way Marketing</a>** and collaborate with **<a href="https://observatoirenature.org/observatorio/notre-equipe/#dario-ernesto-roca" target="_blank">OIDN - Observatoire International des Droits de la Nature.</a>**
 
-- 🌱 I’m currently **learning:**  <img alt="logo java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img alt="logo python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img  alt="logo php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+- 🌱 I’m currently **learning:**  <img alt="logo java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img alt="logo python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 
 - 💻 Yes, I can create your website. Take a look to **<a href="https://rocadev.net/" target="_blank">My Portfolio.</a>**
 

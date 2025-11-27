@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dario Ernesto Roca Polo.</h1>
 <h2 align="center">I'm a Web Developer and SEO Consultant from Colombia, driven by a dedication to crafting dynamic websites and web applications, using front-end and back-end technologies.</h2>
 
-- 🔭 I’m currently working as **Senior Web Developer** for **<a href="https://middlewaymarketing.com/our-agency/" target="_blank">Middle Way Marketing</a>** and collaborate with **<a href="https://observatoirenature.org/observatorio/notre-equipe/#dario-ernesto-roca" target="_blank">OIDN - Observatoire International des Droits de la Nature.</a>**
+- 🔭 I’m currently working as **Senior Web Developer** for **<a href="https://stubgroup.com/meet-our-team/" target="_blank">Stubgroup</a>** and collaborate with **<a href="https://observatoirenature.org/observatorio/notre-equipe/#dario-ernesto-roca" target="_blank">OIDN - Observatoire International des Droits de la Nature.</a>**
 
 - 🌱 I’m currently **learning:**  <img alt="logo java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img alt="logo python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 

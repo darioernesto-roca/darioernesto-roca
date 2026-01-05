@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **Senior Web Developer** for **<a href="https://stubgroup.com/meet-our-team/" target="_blank">Stubgroup</a>** and collaborate with **<a href="https://observatoirenature.org/observatorio/notre-equipe/#dario-ernesto-roca" target="_blank">OIDN - Observatoire International des Droits de la Nature.</a>**
 
-- 🌱 I’m currently **learning:**  <img alt="logo java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+- 🌱 I’m currently **learning:**  <img alt="Java logo" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 <img alt="logo python"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
 />
 

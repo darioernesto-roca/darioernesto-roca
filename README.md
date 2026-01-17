@@ -130,3 +130,8 @@
     />
   </a>
 </p>
+
+## GitHub stats:
+![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=darioernesto-roca&show_icons=true&theme=tokyonight&hide_border=true&locale=en)
+![GitHub Streak Stats](https://streak-stats.demolab.com?user=darioernesto-roca&theme=tokyonight&hide_border=true)
+

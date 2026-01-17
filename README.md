@@ -111,27 +111,7 @@
 </a>
 </span>
 
-<h2>GitHub stats:</h2>
+## GitHub stats
 
-<p>
-  <a href="https://github.com/darioernesto-roca">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=darioernesto-roca&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
-      alt="GitHub Readme Stats"
-      height="165"
-    />
-  </a>
-
-  <a href="https://github.com/darioernesto-roca">
-    <img
-      src="https://streak-stats.demolab.com?user=darioernesto-roca&theme=tokyonight&hide_border=true"
-      alt="GitHub Streak Stats"
-      height="165"
-    />
-  </a>
-</p>
-
-## GitHub stats:
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=darioernesto-roca&show_icons=true&theme=tokyonight&hide_border=true&locale=en)
+![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=darioernesto-roca&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
 ![GitHub Streak Stats](https://streak-stats.demolab.com?user=darioernesto-roca&theme=tokyonight&hide_border=true)
-

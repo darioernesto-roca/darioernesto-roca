@@ -114,5 +114,5 @@
 ## GitHub stats
 
 ![GitHub Readme Stats](https://github-readme-stats-gamma-one-34.vercel.app/api?username=darioernesto-roca&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
-[![GitHub Streak](https://github-streak-stats-five.vercel.app?darioernesto-roca=&theme=tokyonight-duo)]
+![GitHub Streak](https://github-streak-stats-five.vercel.app/darioernesto-roca=&theme=tokyonight-duo)
 

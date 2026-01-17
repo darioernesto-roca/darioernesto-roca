@@ -113,6 +113,6 @@
 
 ## GitHub stats
 
-![GitHub Readme Stats](github-readme-stats-git-master-darioernesto-rocas-projects.vercel.app/api?username=darioernesto-roca&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
-![GitHub Streak Stats](github-readme-stats-git-master-darioernesto-rocas-projects.vercel.app/?user=darioernesto-roca&theme=tokyonight&hide_border=true)
+![GitHub Readme Stats](https://github-readme-stats-gamma-one-34.vercel.app/api?username=darioernesto-roca&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
+![GitHub Streak Stats](https://github-readme-stats-gamma-one-34.vercel.app/?user=darioernesto-roca&theme=tokyonight&hide_border=true)
 

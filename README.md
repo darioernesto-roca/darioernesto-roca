@@ -109,15 +109,24 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/>
 </a>
+</span>
 
+<h2>GitHub stats:</h2>
 
-<h2>Github stats:</h2>
-
-<div>
+<p>
   <a href="https://github.com/darioernesto-roca">
-    <img src="https://github-readme-stats.vercel.app/api?username=darioernesto-roca&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Readme Stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=darioernesto-roca&show_icons=true&theme=tokyonight&hide_border=true&locale=en"
+      alt="GitHub Readme Stats"
+      height="165"
+    />
   </a>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=darioernesto-roca&theme=tokyonight" alt="GitHub Streak Stats">
+
+  <a href="https://github.com/darioernesto-roca">
+    <img
+      src="https://streak-stats.demolab.com?user=darioernesto-roca&theme=tokyonight&hide_border=true"
+      alt="GitHub Streak Stats"
+      height="165"
+    />
   </a>
-</div>
+</p>

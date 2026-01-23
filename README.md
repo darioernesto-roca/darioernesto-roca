@@ -128,7 +128,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Teamwork-logo.svg" alt="Teamwork" width="120" height="40"/>
 </a>
 <a href="https://www.hubspot.com/" target="_blank" rel="noreferrer" title="HubSpot">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/HubSpot_Logo.svg" alt="HubSpot" width="120" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/HubSpot_Logo.svg" alt="HubSpot" width="120" height="40"/>
 </a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer" title="Google Cloud">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="Google Cloud" width="120" height="40"/>

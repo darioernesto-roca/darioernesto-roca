@@ -134,10 +134,13 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="Google Cloud" width="120" height="40"/>
 </a>
 <a href="https://search.google.com/search-console/about" target="_blank" rel="noreferrer" title="Google Search Console">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Search_Console_logo.svg" alt="Google Search Console" width="120" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Google_Search_Console.svg" alt="Google Search Console" width="120" height="40"/>
 </a>
 <a href="https://tagmanager.google.com/" target="_blank" rel="noreferrer" title="Google Tag Manager">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Google_Tag_Manager_logo.svg" alt="Google Tag Manager" width="40" height="40"/>
+    <img src="https://images.seeklogo.com/logo-png/33/1/google-tag-manager-logo-png_seeklogo-337292.png" alt="Google Tag Manager" width="40" height="40"/>
+</a>
+<a href="https://www.statuscake.com/" target="_blank" rel="noreferrer" title="StatusCake">
+    <img src="https://raw.githubusercontent.com/pulumiverse/pulumi-statuscake/main/statuscake.svg" alt="StatusCake" width="40" height="40"/>
 </a>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer" title="Photoshop">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="40" height="40"/>

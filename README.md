@@ -49,6 +49,9 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML5">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 </a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer" title="PHP">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+</a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </a>
@@ -69,6 +72,30 @@
 </a>
 <a href="https://wordpress.org/" target="_blank" rel="noreferrer" title="WordPress">
     <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+</a>
+<a href="https://webflow.com/" target="_blank" rel="noreferrer" title="Webflow">
+    <img src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" alt="Webflow"/>
+</a>
+<a href="https://www.shopify.com/" target="_blank" rel="noreferrer" title="Shopify">
+    <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify"/>
+</a>
+<a href="https://www.wix.com/" target="_blank" rel="noreferrer" title="Wix">
+    <img src="https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white" alt="Wix"/>
+</a>
+<a href="https://www.bigcommerce.com/" target="_blank" rel="noreferrer" title="BigCommerce">
+    <img src="https://img.shields.io/badge/BigCommerce-121118?style=for-the-badge&logo=bigcommerce&logoColor=white" alt="BigCommerce"/>
+</a>
+<a href="https://www.siteground.com/" target="_blank" rel="noreferrer" title="SiteGround">
+    <img src="https://img.shields.io/badge/SiteGround-2F6BFF?style=for-the-badge&logo=siteground&logoColor=white" alt="SiteGround"/>
+</a>
+<a href="https://wpengine.com/" target="_blank" rel="noreferrer" title="WP Engine">
+    <img src="https://img.shields.io/badge/WP%20Engine-0ECAD4?style=for-the-badge&logo=wpengine&logoColor=white" alt="WP Engine"/>
+</a>
+<a href="https://www.hostinger.com/" target="_blank" rel="noreferrer" title="Hostinger">
+    <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" alt="Hostinger"/>
+</a>
+<a href="https://www.godaddy.com/" target="_blank" rel="noreferrer" title="GoDaddy">
+    <img src="https://img.shields.io/badge/GoDaddy-1BDBDB?style=for-the-badge&logo=godaddy&logoColor=black" alt="GoDaddy"/>
 </a>
 <a href="https://elementor.com/" target="_blank" rel="noreferrer" title="Elementor">
     <img src="https://img.shields.io/badge/Elementor-9146FF?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor"/>
@@ -97,6 +124,21 @@
 <a href="https://trello.com/" target="_blank" rel="noreferrer" title="Trello">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Trello-logo-blue.svg" alt="Trello" width="100" height="40"/>
 </a>
+<a href="https://www.teamwork.com/" target="_blank" rel="noreferrer" title="Teamwork">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Teamwork_Logo.svg" alt="Teamwork" width="120" height="40"/>
+</a>
+<a href="https://www.hubspot.com/" target="_blank" rel="noreferrer" title="HubSpot">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/HubSpot_Logo.svg" alt="HubSpot" width="120" height="40"/>
+</a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer" title="Google Cloud">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="Google Cloud" width="120" height="40"/>
+</a>
+<a href="https://search.google.com/search-console/about" target="_blank" rel="noreferrer" title="Google Search Console">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Search_Console_logo.svg" alt="Google Search Console" width="120" height="40"/>
+</a>
+<a href="https://tagmanager.google.com/" target="_blank" rel="noreferrer" title="Google Tag Manager">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Google_Tag_Manager_logo.svg" alt="Google Tag Manager" width="40" height="40"/>
+</a>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer" title="Photoshop">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="40" height="40"/>
 </a>
@@ -115,4 +157,3 @@
 
 ![GitHub Readme Stats](https://github-readme-stats-gamma-one-34.vercel.app/api?username=darioernesto-roca&show_icons=true&theme=tokyonight&hide_border=false&border_radius=5)
 ![GitHub Streak](https://github-streak-stats-five.vercel.app/?user=darioernesto-roca&theme=tokyonight-duo)
-

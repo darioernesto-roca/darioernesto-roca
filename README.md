@@ -125,7 +125,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Trello-logo-blue.svg" alt="Trello" width="100" height="40"/>
 </a>
 <a href="https://www.teamwork.com/" target="_blank" rel="noreferrer" title="Teamwork">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Teamwork_Logo.svg" alt="Teamwork" width="120" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Teamwork-logo.svg" alt="Teamwork" width="120" height="40"/>
 </a>
 <a href="https://www.hubspot.com/" target="_blank" rel="noreferrer" title="HubSpot">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/HubSpot_Logo.svg" alt="HubSpot" width="120" height="40"/>
@@ -140,7 +140,7 @@
     <img src="https://images.seeklogo.com/logo-png/33/1/google-tag-manager-logo-png_seeklogo-337292.png" alt="Google Tag Manager" width="40" height="40"/>
 </a>
 <a href="https://www.statuscake.com/" target="_blank" rel="noreferrer" title="StatusCake">
-    <img src="https://raw.githubusercontent.com/pulumiverse/pulumi-statuscake/main/statuscake.svg" alt="StatusCake" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBe5OLysDTGVy0wfx9H_lTim_kxqVhbRuzPg&s" alt="StatusCake" width="40" height="40"/>
 </a>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer" title="Photoshop">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="40" height="40"/>

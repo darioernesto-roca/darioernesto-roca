@@ -108,67 +108,67 @@
 <p align="left">
 
 <a href="https://www.notion.so/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="40" style="margin: 5px;"/>
 </a>
 
 <a href="https://slack.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Slack_Technologies_Logo.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Slack_Technologies_Logo.svg" width="40" style="margin: 5px;"/>
 </a>
 
 <a href="https://discord.com/" target="_blank">
-  <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="40"/>
+  <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="40" style="margin: 5px;"/>
 </a>
 
 <a href="https://monday.com/" target="_blank">
-  <img src="https://monday.com/p/wp-content/uploads/2024/03/Black-logo.png" width="40"/>
+  <img src="https://monday.com/p/wp-content/uploads/2024/03/Black-logo.png" width="40" style="margin: 5px;"/>
 </a>
 
 <a href="https://asana.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Asana_logo.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Asana_logo.svg" width="40" style="margin: 5px;"/>
 </a>
 
 <a href="https://trello.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Trello-logo-blue.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Trello-logo-blue.svg" width="40" style="margin: 5px;"/>
 </a>
 
 <a href="https://www.teamwork.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Teamwork-logo.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Teamwork-logo.svg" width="40" style="margin: 5px;"/>
 </a>
 
 <a href="https://www.hubspot.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/HubSpot_Logo.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/HubSpot_Logo.svg" width="40" style="margin: 5px;"/>
 </a>
 
 <a href="https://cloud.google.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="40" style="margin: 5px;"/>
 </a>
 
 <a href="https://search.google.com/search-console/about">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Google_Search_Console.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Google_Search_Console.svg" width="40" style="margin: 5px;"/>
 </a>
 
 <a href="https://tagmanager.google.com/">
-  <img src="https://images.seeklogo.com/logo-png/33/1/google-tag-manager-logo-png_seeklogo-337292.png" width="40"/>
+  <img src="https://images.seeklogo.com/logo-png/33/1/google-tag-manager-logo-png_seeklogo-337292.png" width="40" style="margin: 5px;"/>
 </a>
 
 <a href="https://www.statuscake.com/">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBe5OLysDTGVy0wfx9H_lTim_kxqVhbRuzPg&s" width="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBe5OLysDTGVy0wfx9H_lTim_kxqVhbRuzPg&s" width="40" style="margin: 5px;"/>
 </a>
 
 <a href="https://www.adobe.com/products/photoshop.html">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40" style="margin: 5px;"/>
 </a>
 
 <a href="https://www.adobe.com/products/xd.html">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" width="40" style="margin: 5px;"/>
 </a>
 
 <a href="https://www.gimp.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" width="40" style="margin: 5px;"/>
 </a>
 
 <a href="https://www.figma.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="40" style="margin: 5px;"/>
 </a>
 
 </p>

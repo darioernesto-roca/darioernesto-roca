@@ -103,74 +103,60 @@
 </p>
 
 
-<h3> Other Tools and Technologies </h3>
+<h3>Other Tools and Technologies</h3>
 
-<p align="left">
+<p>
+  <a href="https://www.notion.so/" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  </a>
 
-<a href="https://www.notion.so/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="40" style="margin: 5px;"/>
-</a>
+  <a href="https://slack.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
+  </a>
 
-<a href="https://slack.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Slack_Technologies_Logo.svg" width="40" style="margin: 5px;"/>
-</a>
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 
-<a href="https://discord.com/" target="_blank">
-  <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" width="40" style="margin: 5px;"/>
-</a>
+  <a href="https://asana.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white" alt="Asana" />
+  </a>
 
-<a href="https://monday.com/" target="_blank">
-  <img src="https://monday.com/p/wp-content/uploads/2024/03/Black-logo.png" width="40" style="margin: 5px;"/>
-</a>
+  <a href="https://trello.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+  </a>
 
-<a href="https://asana.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Asana_logo.svg" width="40" style="margin: 5px;"/>
-</a>
+  <a href="https://www.hubspot.com/" target="_blank">
+    <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" alt="HubSpot" />
+  </a>
 
-<a href="https://trello.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Trello-logo-blue.svg" width="40" style="margin: 5px;"/>
-</a>
+  <a href="https://cloud.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  </a>
 
-<a href="https://www.teamwork.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Teamwork-logo.svg" width="40" style="margin: 5px;"/>
-</a>
+  <a href="https://tagmanager.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white" alt="Google Tag Manager" />
+  </a>
 
-<a href="https://www.hubspot.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/HubSpot_Logo.svg" width="40" style="margin: 5px;"/>
-</a>
+  <a href="https://www.klaviyo.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Klaviyo-000000?style=for-the-badge&logo=klaviyo&logoColor=white" alt="Klaviyo" />
+  </a>
 
-<a href="https://cloud.google.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="40" style="margin: 5px;"/>
-</a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  </a>
 
-<a href="https://search.google.com/search-console/about">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Google_Search_Console.svg" width="40" style="margin: 5px;"/>
-</a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank">
+    <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" alt="Adobe XD" />
+  </a>
 
-<a href="https://tagmanager.google.com/">
-  <img src="https://images.seeklogo.com/logo-png/33/1/google-tag-manager-logo-png_seeklogo-337292.png" width="40" style="margin: 5px;"/>
-</a>
+  <a href="https://www.gimp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP" />
+  </a>
 
-<a href="https://www.statuscake.com/">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBe5OLysDTGVy0wfx9H_lTim_kxqVhbRuzPg&s" width="40" style="margin: 5px;"/>
-</a>
-
-<a href="https://www.adobe.com/products/photoshop.html">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40" style="margin: 5px;"/>
-</a>
-
-<a href="https://www.adobe.com/products/xd.html">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" width="40" style="margin: 5px;"/>
-</a>
-
-<a href="https://www.gimp.org/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" width="40" style="margin: 5px;"/>
-</a>
-
-<a href="https://www.figma.com/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="40" style="margin: 5px;"/>
-</a>
-
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  </a>
 </p>
 
 ## GitHub stats

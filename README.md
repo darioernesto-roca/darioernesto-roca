@@ -157,6 +157,13 @@
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   </a>
+  <a href="https://monday.com/" target="_blank">
+   <img src="https://img.shields.io/badge/Monday.com-FF3D57?style=for-the-badge&logo=mondaydotcom&logoColor=white" alt="Monday.com" />
+  </a>
+
+  <a href="https://www.teamwork.com/" target="_blank">
+   <img src="https://img.shields.io/badge/Teamwork-4BCE97?style=for-the-badge&logo=teamwork&logoColor=white" alt="Teamwork" />
+  </a>
 </p>
 
 ## GitHub stats

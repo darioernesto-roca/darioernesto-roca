@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/darioernestoro1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darioernestoro1" height="30" width="40" /></a>
+<a href="https://x.com/darioernestoro1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="darioernestoro1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dario-ernesto-roca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dario-ernesto-roca" height="30" width="40" /></a>
 </p>
 

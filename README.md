@@ -165,8 +165,3 @@
    <img src="https://img.shields.io/badge/Teamwork-4BCE97?style=for-the-badge&logo=teamwork&logoColor=white" alt="Teamwork" />
   </a>
 </p>
-
-## GitHub stats
-
-![GitHub Readme Stats](https://github-readme-stats-gamma-one-34.vercel.app/api?username=darioernesto-roca&show_icons=true&theme=tokyonight&hide_border=false&border_radius=5)
-![GitHub Streak](https://github-streak-stats-five.vercel.app/?user=darioernesto-roca&theme=tokyonight-duo)

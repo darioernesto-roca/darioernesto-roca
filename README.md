@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Darío Ernesto Roca Polo</h1>
 
 <h2 align="center">
-Full-Stack Web Developer, WordPress/Shopify Specialist, and Technical SEO Consultant from Colombia.
+Full-Stack Web Developer, Node JS & WordPress/Shopify Specialist, and Technical SEO Consultant from Colombia.
 </h2>
 
 <p align="center">

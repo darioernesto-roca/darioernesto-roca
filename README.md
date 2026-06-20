@@ -23,7 +23,7 @@ I build, maintain, audit, migrate, optimize, and troubleshoot websites for busin
 
 - 🧩 My work is focused on **WordPress development, Elementor builds, Shopify configuration, technical SEO, website performance, hosting/DNS troubleshooting, migrations, e-commerce, and client website support**.
 
-- 🛠️ I regularly work across **WordPress, Shopify, Webflow, PHP, JavaScript, Node.js, Express.js, React, MySQL, PostgreSQL, DNS, cPanel, Cloudflare, SiteGround, WP Engine, Hostinger, GoDaddy, Google Tag Manager, GA4, RankMath, schema markup, and Core Web Vitals**.
+- 🛠️ I regularly work across **WordPress, Shopify, BigCommerce, Webflow, PHP, JavaScript, Node.js, Express.js, React, REST APIs, GraphQL APIs, MySQL, PostgreSQL, DNS, cPanel, Cloudflare, SiteGround, WP Engine, Hostinger, GoDaddy, Google Tag Manager, GA4, RankMath, schema markup, and Core Web Vitals**.
 
 - 🔐 I care about practical web security, including **WordPress hardening, malware cleanup, plugin conflict debugging, safe staging workflows, redirects, SSL, backups, access control, and security scans**.
 
@@ -45,6 +45,7 @@ I build, maintain, audit, migrate, optimize, and troubleshoot websites for busin
 - WooCommerce setup, checkout customization, payment flows, and product logic
 - Shopify theme configuration, Liquid edits, shipping settings, product schema, and policy pages
 - Webflow site support, custom CSS/JS, and form improvements
+- REST and GraphQL API integrations for Node.js projects, BigCommerce implementations, and WordPress/headless websites
 - Landing pages, multi-step forms, popups, reusable sections, and responsive layouts
 
 ### Technical SEO and Web Performance
@@ -107,6 +108,9 @@ I build, maintain, audit, migrate, optimize, and troubleshoot websites for busin
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer" title="Express.js">
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  </a>
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer" title="GraphQL">
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
   </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer" title="Java">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>

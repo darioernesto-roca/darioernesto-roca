@@ -129,6 +129,9 @@ I build, maintain, audit, migrate, optimize, and troubleshoot websites for busin
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer" title="WordPress">
     <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
   </a>
+  <a href="https://www.drupal.org/" target="_blank" rel="noreferrer" title="Drupal">
+    <img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" alt="Drupal"/>
+  </a>
   <a href="https://elementor.com/" target="_blank" rel="noreferrer" title="Elementor">
     <img src="https://img.shields.io/badge/Elementor-9146FF?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor"/>
   </a>

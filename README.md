@@ -19,7 +19,7 @@ I build, maintain, audit, migrate, optimize, and troubleshoot websites for busin
 
 ## About me
 
-- 🔭 I’m currently working as a **Web Developer for <a href="https://stubgroup.com/meet-our-team/" target="_blank">StubGroup</a>** and collaborating with **<a href="https://observatoirenature.org/observatorio/notre-equipe/#dario-ernesto-roca" target="_blank">OIDN, Observatoire International des Droits de la Nature</a>**.
+- 🔭 I’m currently working as a **Full-Stack Web Developer for <a href="https://stubgroup.com/meet-our-team/" target="_blank">StubGroup</a>** and collaborating with **<a href="https://observatoirenature.org/observatorio/notre-equipe/#dario-ernesto-roca" target="_blank">OIDN, Observatoire International des Droits de la Nature</a>**.
 
 - 🧩 My work is focused on **Shopify, WordPress development, Elementor builds, Shopify configuration, technical SEO, website performance, hosting/DNS troubleshooting, migrations, e-commerce, and client website support**.
 

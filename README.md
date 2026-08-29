@@ -33,7 +33,7 @@ I build, maintain, audit, migrate, optimize, and troubleshoot websites for busin
 
 - 💬 Ask me about **WordPress, Elementor, WooCommerce, Shopify, Webflow, PHP, JavaScript, SEO, DNS, hosting, migrations, Core Web Vitals, accessibility, schema, GTM, GA4, technical audits, and website troubleshooting**.
 
-- 📫 You can reach me at **darioernesto.roca@gmail.com**.
+- 📫 You can reach me at the email **darioernesto.roca@gmail.com**.
 
 ---
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Darío Ernesto Roca</h1>
+<h1 align="center">Hi, I'm Darío Ernesto Roca Polo</h1>
 
 <h2 align="center">
 Full-Stack Web Developer, Node JS & WordPress/Shopify Specialist from Colombia.
@@ -33,7 +33,7 @@ I build, maintain, audit, migrate, optimize, and troubleshoot websites for busin
 
 - 💬 Ask me about **WordPress, Elementor, WooCommerce, Shopify, Webflow, PHP, JavaScript, SEO, DNS, hosting, migrations, Core Web Vitals, accessibility, schema, GTM, GA4, technical audits, and website troubleshooting**.
 
-- 📫 You can reach me at the email **darioernesto.roca@gmail.com**.
+- 📫 You can reach me at **darioernesto.roca@gmail.com**.
 
 ---
 

@@ -5,7 +5,7 @@ Full-Stack Web Developer, Node.js, Javascript & WordPress/Shopify Specialist.
 </h2>
 
 <p align="center">
-I build, maintain, audit, migrate, optimize, and troubleshoot websites for businesses that need reliable web infrastructure, strong SEO foundations, clean UX, and practical technical solutions.
+I build, maintain, audit, migrate, optimize, and troubleshoot websites for businesses that need reliable web infrastructure, strong SEO foundations, clean UX, and practical technical website solutions.
 </p>
 
 <p align="center">

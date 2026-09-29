@@ -11,7 +11,7 @@ I build, maintain, audit, migrate, optimize, and troubleshoot websites for busin
 <p align="center">
   <a href="https://rocadev.net/" target="_blank">Portfolio</a> •
   <a href="https://darioernestoroca.com/" target="_blank">Personal Website</a> •
-  <a href="https://github.com/darioernesto-roca" target="_blank">GitHub</a> •
+  <a href="https://github.com/darioernesto-roca/" target="_blank">GitHub</a> •
   <a href="https://www.linkedin.com/in/dario-ernesto-roca/" target="_blank">LinkedIn</a>
 </p>
 
